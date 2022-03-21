@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies20221</string>
+    <string name="movie_title">Título de la pelicula</string>
+    <string name="realise_date_label">Realise date:</string>
+    <string name="realise_date_example">30-nov-2020</string>
+    <string name="vote_average_example">10</string>
+    <string name="vote_average_label">Vote average:</string>
+</resources>
